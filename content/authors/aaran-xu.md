@@ -8,4 +8,4 @@ draft = false
 
 Creator of **AdiDoks**.
 
-[@aaranxu](https://github.com/aaranxu)
+[aaranxu](https://github.com/aaranxu)
